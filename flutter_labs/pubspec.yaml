@@ -66,6 +66,7 @@ flutter:
     - assets/dice4.png
     - assets/dice5.png
     - assets/dice6.png
+    - assets/my ghibli.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
